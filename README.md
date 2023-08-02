@@ -12,7 +12,7 @@ required to form a request.
 ## Dependencies
 
 * Composer
-* PHP 5.4 or greater
+* PHP 7.4 or greater
 * cURL with NTLM support (7.30.0+ recommended)
 * Exchange 2007 or later
 
